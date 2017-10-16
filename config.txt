@@ -1,0 +1,33 @@
+{
+  "editor.fontFamily": "fira code, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "One Monokai",
+  "window.menuBarVisibility": "default",
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.enabled": false,
+  "editor.renderIndentGuides": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnSave": true,
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "double"
+    }
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "plaintext": "jade"
+  },
+
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/zavod/.vscode/vscode-style.css"
+  ]
+}
